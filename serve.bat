@@ -1,6 +1,5 @@
 @echo off
 setlocal
-:PROMPT
 echo This script runs the website locally.
 echo While this script is running, any changes you make will be automatically detected.
 echo Open the following link in your browser to view the website (CTRL + click the link to open it):
